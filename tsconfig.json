@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "jsx": "react",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "baseUrl": "./src",
+    "paths": {
+      "*": ["*"]
+    },
+    "types": [],
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "noImplicitAny": false,
+    "forceConsistentCasingInFileNames": true
+  }
+}
